@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    width:400px;
+    height: 400px;
+    margin: 20vh auto;
+    box-shadow: 0px 2px 3px rgba(0,0,0,.5);
+}
+
+img {
+    display: block;
+    width:50%;
+    height: 40%;
+    margin: 20px auto;
+    padding-top: 20px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+p {
+    padding: 10px 20px;
+}
